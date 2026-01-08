@@ -6,7 +6,7 @@ Passionate **Software Engineer**, **Data scientist**, and **Machine Learning Res
 
 - **Programming Conpetency**: Proficent in **Python**, **Javascript/Typescript**, **Dart** and **Rust** with strong coding skills across muttiple platforms.
 - **Analytical Skills**: Advanced analytics capabilities, adep at problem soving and optimizing complex systems.
-- **IoT Systems Design**: Experienced in design and development of management systems for **Internet of Things(IoT)** applications
+- **IoT Systems Design**: Experienced in design and development of management systems for **Internet of Things(IoT)** applications.
 - **Embdedded Systems Development**: Skilled in developing embedded systems using **FPGA technology**, enhancing device functionnality and performace.
 - **Cloud Computing**: Knowledge in cloud computing frameworks and technologies, capable of leveraging cloud resources for scalable solutions.
 
