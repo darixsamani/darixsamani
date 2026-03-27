@@ -7,7 +7,7 @@ Passionate **Software Engineer**, **Data Scientist**, and **Machine Learning Res
 ## 🚀 What I'm Building & Exploring
 
 - **Programming Competency 💻**: Proficient in **Python**, **JavaScript/TypeScript**, **Dart**, and **Rust**, with strong coding skills across multiple platforms.  
-- **Analytical Skills 📊**: Advanced analytical capabilities, adept at problem solving and optimizing complex systems.  
+- **Analytical Skills 📊**: Advanced analytical capabilities, adept at problem-solving and optimizing complex systems.  
 - **IoT Systems Design 🌐**: Experienced in the design and development of management systems for **Internet of Things (IoT)** applications.  
 - **Embedded Systems Development 🔌**: Skilled in developing embedded systems using **FPGA technology**, enhancing device functionality and performance.  
 - **Cloud Computing ☁️**: Knowledge of cloud computing frameworks and technologies, capable of leveraging cloud resources for scalable solutions.
@@ -28,18 +28,3 @@ Passionate **Software Engineer**, **Data Scientist**, and **Machine Learning Res
 > ✨ *Everything is uncertain — it's your ability to navigate through it that makes the difference.*
 
 ---
-
-<!--
-**darixsamani/darixsamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
