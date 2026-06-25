@@ -1,5 +1,5 @@
 
-## Hi, I'm Darix SAMANI SIEWE 👋
+## <div align="center">  Hi, I'm Darix SAMANI SIEWE 👋 </div>
 <div align="center"> 
 Software Engineer · Data Scientist · ML Researcher 
 
@@ -8,6 +8,8 @@ Passionate about building optimized solutions with **Python**, **JavaScript**/**
 [![Codewars Badge](https://www.codewars.com/users/darixsamani/badges/large)](https://www.codewars.com/users/darixsamani)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/darix15)
 -->
-</div>
+
 
 > *Everything is uncertain — it's your ability to navigate through it that makes the difference.* ✨
+
+</div>
